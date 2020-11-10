@@ -10,3 +10,7 @@ Using Pandas to visualize data by organizing values into tables and DataFrames. 
 ## Technologies 
 * Pandas
 * Jupyter Notebook
+
+## File to run
+* HeroesofPymoli.ipynb - main file to run code
+* HeroesofPymoli_starter.ipynb - starter file containing expected returns on tables and DataFrames
